@@ -1,6 +1,6 @@
 # vahana 
 
-**Author:** [Manoj Prakash J]  
+**Author:** Manoj Prakash J  
 **Disclaimer:** This tool is intended for authorized pentesting/educational purposes only. Use responsibly.
 
 ## Overview
