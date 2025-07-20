@@ -1,8 +1,3 @@
-# vahana 
-
-**Author:** Manoj Prakash J  
-**Disclaimer:** This tool is intended for authorized pentesting/educational purposes only. Use responsibly.
-
 ## Overview
 
 This tool is a multi-functional file transfer and directory sharing utility written in Python. It provides multiple file transfer methods with integrity verification and supports advanced directory operations such as zipping (with an optional manifest of file hashes) and serving directories over HTTP/HTTPS. When serving directories over HTTPS, the tool can automatically generate a self-signed TLS certificate if you do not provide your own.
